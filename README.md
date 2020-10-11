@@ -10,6 +10,6 @@
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dandyraka&layout=compact" alt="dandyraka's github stats"/>
    </a>
    <a href="https://github.com/dandyraka/">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dandyraka&hide=issues&count_private=true&show_icons=true" alt="dandyraka's github stats" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lhmrnfrzrfr&hide=issues&count_private=true&show_icons=true" alt="lhmrnfrzrfr's github stats" />
    </a>
 </p>
