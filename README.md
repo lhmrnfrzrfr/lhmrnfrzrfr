@@ -14,6 +14,7 @@
    </a>
 </p>
 
-## Hobby
+## Quotes
 
-### I love doing stuff while listening to some good music. I usually code at night and I drink coffee to keep-alive.
+### Darkness cannot drive out darkness; only light can do that.
+### Hate cannot drive out hate; only love can do that.
