@@ -13,3 +13,7 @@
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=lhmrnfrzrfr&hide=issues&count_private=true&show_icons=true" alt="lhmrnfrzrfr's github stats" />
    </a>
 </p>
+
+## Hobby
+
+### I love doing stuff while listening to some good music. I usually code at night and I drink coffee to keep-alive.
