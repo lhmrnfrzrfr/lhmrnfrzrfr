@@ -1,6 +1,6 @@
 [![JNCK Media banner](https://github.com/lhmrnfrzrfr/lhmrnfrzrfr/blob/main/assets/catsonlaptop.jpg)](https://jnckmedia.com)
-<h1 align='center'> Hi! :wave:</h1>
-<p align='center'> Hello there! My name is Dandy. 😎 </p>
+<h1 align='center'> Hi! :wave:, I'm Ilham Riana</h1>
+<p align='center'> Feels free to get in touch with me. :) </p>
 <p align='center'>
    <a href="https://twitter.com/xtrvts"><img height="30" src="https://github.com/dandyraka/dandyraka/blob/master/images/twitter.png?raw=true"></a>&nbsp;&nbsp;
    <a href="https://instagram.com/xtrvts"><img height="30" src="https://github.com/dandyraka/dandyraka/blob/master/images/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
