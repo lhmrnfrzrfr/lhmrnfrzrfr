@@ -1,6 +1,6 @@
+[![Ilham's portfolio](https://github.com/lhmrnfrzrfr/lhmrnfrzrfr/blob/main/assets/workdesk.jpg)](https://www.ilhamriana.com/)
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=lhmrnfrzrfr" alt="lhmrnfrzrfr" /> </p>
 
-[![Ilham's portfolio](https://github.com/lhmrnfrzrfr/lhmrnfrzrfr/blob/main/assets/workdesk.jpg)](https://www.ilhamriana.com/)
 <h1 align='center'> Hi there :wave:, I'm Ilham Riana</h1>
 <p align='center'> Feels free to get in touch with me :) </p>
 <p align='center'>
