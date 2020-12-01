@@ -20,6 +20,6 @@
 
 ## Quotes
 
-### Darkness cannot drive out darkness; only light can do that. <br/> Hate cannot drive out hate; only love can do that.
+### Make something. <br/> and don't show anything.
 
 </div>
