@@ -20,6 +20,6 @@
 
 ## Quotes
 
-### Make something. <br/> and don't show anything.
+### Make something. <br/> And don't show anything.
 
 </div>
