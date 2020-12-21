@@ -2,7 +2,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=lhmrnfrzrfr" alt="lhmrnfrzrfr" /> </p>
 
 <h1 align='center'> Hi there :wave:, I'm Ilham Riana</h1>
-<p align='center'> Feels free to get in touch with me :) </p>
+
 <p align='center'>
    <a href="https://twitter.com/xenophobict"><img height="30" src="https://github.com/lhmrnfrzrfr/lhmrnfrzrfr/blob/main/assets/twitter.svg?raw=true"></a>&nbsp;&nbsp;
    <a href="https://instagram.com/lhmrnfrzrfr"><img height="30" src="https://github.com/lhmrnfrzrfr/lhmrnfrzrfr/blob/main/assets/instagram.svg?raw=true"></a>&nbsp;&nbsp;
