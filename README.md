@@ -1,8 +1,9 @@
 [![Ilham's portfolio](https://github.com/lhmrnfrzrfr/lhmrnfrzrfr/blob/main/assets/workdesk.jpg)](https://www.ilhamriana.com/)
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=lhmrnfrzrfr" alt="lhmrnfrzrfr" /> </p>
 
-<h1 align='center'> Hi there :wave:, I'm Ilham Riana</h1>
+Hi there 👋
 
+I'm Ilham Riana, i was usually collaborating in team as back-End Developer, but also has passion on Mobile apps and currently learning about it.
 <p align='center'>
    <a href="https://twitter.com/xenophobict"><img height="30" src="https://github.com/lhmrnfrzrfr/lhmrnfrzrfr/blob/main/assets/twitter.svg?raw=true"></a>&nbsp;&nbsp;
    <a href="https://instagram.com/lhmrnfrzrfr"><img height="30" src="https://github.com/lhmrnfrzrfr/lhmrnfrzrfr/blob/main/assets/instagram.svg?raw=true"></a>&nbsp;&nbsp;
