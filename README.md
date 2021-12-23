@@ -4,10 +4,12 @@
 Hi there 👋
 
 I'm Ilham Riana, i was usually collaborating in team as back-End Developer, but also has passion on Mobile apps and currently learning about it.
-<p align='center'>
-   <a href="https://twitter.com/xenophobict"><img height="30" src="https://github.com/lhmrnfrzrfr/lhmrnfrzrfr/blob/main/assets/twitter.svg?raw=true"></a>&nbsp;&nbsp;
-   <a href="https://instagram.com/lhmrnfrzrfr"><img height="30" src="https://github.com/lhmrnfrzrfr/lhmrnfrzrfr/blob/main/assets/instagram.svg?raw=true"></a>&nbsp;&nbsp;
-   <a href="https://www.facebook.com/404system"><img height="30" src="https://github.com/lhmrnfrzrfr/lhmrnfrzrfr/blob/main/assets/facebook.svg?raw=true"></a>
+
+   #### Feels free to reach me on :
+   [![Facebook: Ilham](https://img.shields.io/facebook/follow/404system?style=social)](https://www.facebook.com/404system)
+[![Twitter: lhmrnfrzrfr](https://img.shields.io/twitter/follow/igvyousomespace?style=social)](https://twitter.com/igvyousomespace)
+[![Linkedin: ilhamriana](https://img.shields.io/badge/-ilhamriana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ilhamriana/)](https://www.linkedin.com/in/ilhamriana/)
+[![GitHub lhmrnfrzrfr](https://img.shields.io/github/followers/lhmrnfrzrfr?label=follow&style=social)](https://github.com/lhmrnfrzrfr)
    <br/><br/>
    <a href="https://github.com/lhmrnfrzrfr/">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhmrnfrzrfr&layout=compact" alt="lhmrnfrzrfr's github stats"/>
