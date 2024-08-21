@@ -3,8 +3,6 @@
 
 Hi there 👋
 
-I'm Ilham Riana, i was usually collaborating in team as back-End Developer, but also has passion on Mobile apps and currently learning about it.
-
    #### Feels free to reach me on :
    [![Twitch: Ilham](https://img.shields.io/twitch/status/ilhamriana3?style=social)](https://www.twitch.tv/ilhamriana3)
 [![Twitter: lhmrnfrzrfr](https://img.shields.io/twitter/follow/igvyousomespace?style=social)](https://twitter.com/igvyousomespace)
