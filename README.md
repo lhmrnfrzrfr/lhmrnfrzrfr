@@ -11,7 +11,7 @@ Hi there 👋
 
    <br/><br/>
    <a href="https://github.com/xhmrnz/">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhmrnfrzrfr&layout=compact" alt="lhmrnfrzrfr's github stats"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xhmrnz&layout=compact" alt="xhmrnz's github stats"/>
    </a>
    <!-- <a href="https://github.com/lhmrnfrzrfr/">
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=lhmrnfrzrfr&hide=issues&count_private=true&show_icons=true" alt="lhmrnfrzrfr's github stats" />
