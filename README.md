@@ -6,11 +6,11 @@ Hi there 👋
    #### Feels free to reach me on :
    [![Twitch: Ilham](https://img.shields.io/twitch/status/ilhamriana3?style=social)](https://www.twitch.tv/ilhamriana3)
 [![Twitter: lhmrnfrzrfr](https://img.shields.io/twitter/follow/igvyousomespace?style=social)](https://twitter.com/igvyousomespace)
-[![GitHub lhmrnfrzrfr](https://img.shields.io/github/followers/lhmrnfrzrfr?label=follow&style=social)](https://github.com/lhmrnfrzrfr)
+[![GitHub lhmrnfrzrfr](https://img.shields.io/github/followers/lhmrnfrzrfr?label=follow&style=social)](https://github.com/xhmrnz)
 [![Linkedin: ilhamriana](https://img.shields.io/badge/-ilhamriana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ilhamriana/)](https://www.linkedin.com/in/ilhamriana/)
 
    <br/><br/>
-   <a href="https://github.com/lhmrnfrzrfr/">
+   <a href="https://github.com/xhmrnz/">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhmrnfrzrfr&layout=compact" alt="lhmrnfrzrfr's github stats"/>
    </a>
    <!-- <a href="https://github.com/lhmrnfrzrfr/">
